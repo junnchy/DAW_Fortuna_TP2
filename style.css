@@ -102,6 +102,8 @@ a, a:visited{
     margin-right: 10px;
     background-color: rgb(255, 255, 255);
     text-align: center;
+    display: inline-block;
+    width: 50%;
 }
 
 .r-1 figure, .r-2 figure{
