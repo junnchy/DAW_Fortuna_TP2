@@ -87,7 +87,7 @@ a, a:visited{
 }
 
 .main-article img{
-    max-height: 180px;
+    max-height: 160px;
 }
 
 .right-art{
@@ -109,8 +109,9 @@ a, a:visited{
 }
 
 .r-1 img, .r-2 img{
-    height: 100px;
-    width: 178px;
+    height: 90px;
+    width: 150px;
+   
 }
 
 .ads{
