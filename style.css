@@ -204,12 +204,12 @@ a, a:visited{
 
 
     .main-article img{
-        max-height: 400px;
+        max-height: 350px;
     }
 
     .r-1 img, .r-2 img{
-        height: 320px;
-        width: 500px;
+        height: 210px;
+        width: 320px;
        
     }
     
